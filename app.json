@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Hospital Bot SmartQueue",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "HospitalBot",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
