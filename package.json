@@ -1,0 +1,25 @@
+{
+  "name": "nodjs-line-api",
+  "version": "1.0.0",
+  "description": "a sample project",
+  "main": "main",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.3.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start nodjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node index.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "werachon phunta",
+  "license": "MIT"
+}
